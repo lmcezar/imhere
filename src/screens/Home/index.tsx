@@ -5,7 +5,7 @@ import { Participant } from '../../components/Participant'
 
 export function Home() {
 
-  const participants = ['Lucas', 'Joyce', 'Shyriu', 'Ana', 'Myke', 'Diego', 'Ozorio', 'Valdeci', 'Zack'];
+  const participants = ['Lucas', 'Joyce', 'Shyriu', 'Zack', 'Ozorio', 'Valdeci', 'Ana', 'Myke', 'Diego'];
 
   function handleParticipantAdd() {
     console.log('Você clicou no botão de adicionar')
